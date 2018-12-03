@@ -38,7 +38,7 @@ def all_course(courses):
     return all_course_date
 #--------------------------------------------------------------------------
 def prepare_semester():
-    global start, end , delta, courses, semester
+    global start, end , delta
     #for lab day1 and day2 are same
     #edit day1 , day2 , course name 
     courses={
