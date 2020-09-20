@@ -2,7 +2,10 @@
 # coding: utf-8
 
 # In[10]:
-
+#before this
+#create a list/excel of students/guardians
+#using main-merge in msword create a doc, convert to pdf
+#then use this code
 
 # pdf_splitter.py
 
